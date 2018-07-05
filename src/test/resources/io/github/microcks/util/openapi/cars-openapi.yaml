@@ -61,7 +61,6 @@ paths:
                     [
                         {"name": "Alfredo Mazda", "model": "Mazda 6", "year": 2018},
                         {"name": "Stratus", "model": "Dodge Stratus", "year": 2000},
-                        {"name": "Focus", "model": "Ford Focus", "year": 2014}                        
                     ]
     post:
       summary: Add a car to current owner
