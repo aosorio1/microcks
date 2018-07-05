@@ -39,7 +39,7 @@ paths:
           laurent_cars:
             value: 20
           alfredo_cars:
-            value: 20
+            value: 100
       responses:
         200:
           description: Success
