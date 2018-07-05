@@ -1,7 +1,7 @@
 ---
 openapi: 3.0.0
 info:
-  title: OpenAPI Car API
+  title: OpenAPI Car API 2
   description: Sample OpenAPI API using cars
   contact:
     name: Laurent Broudoux
