@@ -27,6 +27,8 @@ paths:
         examples:
           laurent_cars:
             value: 0
+          alfredo_cars:
+            value: 10
       - name: limit
         in: query
         description: Number of result in page
