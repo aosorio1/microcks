@@ -59,8 +59,8 @@ paths:
                 alfredo_cars:
                   value: |-
                     [
-                        {"name": "307", "model": "Peugeot 307", "year": 2003},
-                        {"name": "jean-pierre", "model": "Peugeot Traveler", "year": 2017}
+                        {"name": "Mazda", "model": "Mazda 6", "year": 2015},
+                        {"name": "Dodge", "model": "Stratus", "year": 2000}
                     ]
     post:
       summary: Add a car to current owner
