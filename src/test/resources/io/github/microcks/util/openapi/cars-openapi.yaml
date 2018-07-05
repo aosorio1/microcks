@@ -38,6 +38,8 @@ paths:
         examples:
           laurent_cars:
             value: 20
+          alfredo_cars:
+            value: 20
       responses:
         200:
           description: Success
